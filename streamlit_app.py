@@ -63,7 +63,7 @@ html, body, [class*="css"] {
 .result {
     background: rgba(255,255,255,0.12);
     backdrop-filter: blur(18px);
-    color:Black;
+    color:White;
     padding:25px;
     border-radius:22px;
     border:1px solid rgba(255,255,255,0.15);
