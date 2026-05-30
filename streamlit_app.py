@@ -316,7 +316,7 @@ pada tekanan tetap.
 
         st.latex(r"\Delta H = \Delta U + \Delta nRT")
 
-        dU = st.number_input("ΔU", value=0.0, color="white")
+        dU = st.number_input("ΔU", value=0.0)
         dn = st.number_input("Δn", value=0.0)
         T = st.number_input("T (K)", value=0.0)
 
