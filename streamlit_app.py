@@ -113,7 +113,7 @@ html, body, [class*="css"] {
 
 /* LATEX */
 .katex {
-    color:#dbeafe !important;
+    color:#f0f2f5 !important;
     font-size:24px !important;
 }
 
