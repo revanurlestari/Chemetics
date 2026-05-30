@@ -54,7 +54,7 @@ html, body, [class*="css"] {
 
 .subtitle {
     text-align:center;
-    color:#cbd5e1;
+    color:#ffffff;
     font-size:18px;
     margin-bottom:35px;
 }
@@ -113,7 +113,7 @@ html, body, [class*="css"] {
 
 /* LATEX */
 .katex {
-    color:#f0f2f5 !important;
+    color:#dbeafe !important;
     font-size:24px !important;
 }
 
