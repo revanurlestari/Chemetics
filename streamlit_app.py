@@ -107,7 +107,7 @@ html, body, [class*="css"] {
 .stNumberInput input,
 .stTextInput input {
     background: rgba(255,255,255,0.08) !important;
-    color:white !important;
+    color:black !important;
     border-radius:15px !important;
 }
 
